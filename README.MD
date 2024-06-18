@@ -27,7 +27,7 @@
 ## 安装
 
 ```shell
-$ git clone git@gitlab.com:Binaryify/NeteaseCloudMusicApi.git
+$ git@github.com:HEXIkx/neteasemusicapi.git
 $ cd NeteaseCloudMusicApi
 $ npm install
 ```
