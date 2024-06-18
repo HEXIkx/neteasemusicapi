@@ -28,15 +28,15 @@
 
 ```shell
 $ git@github.com:HEXIkx/neteasemusicapi.git
-$ cd NeteaseCloudMusicApi
+$ cd neteasemusicapi
 $ npm install
 ```
 
 或者
 
 ```shell
-$ git clone https://gitlab.com/Binaryify/NeteaseCloudMusicApi.git
-$ cd NeteaseCloudMusicApi
+$ git clone https://gitlab.com/HEXIkx/neteasemusicapi.git
+$ cd neteasemusicapi
 $ npm install
 ```
 
