@@ -65,7 +65,7 @@ $ set PORT=4000 && node app.js
 可在终端直接执行
 
 ```bash
-npx NeteaseCloudMusicApi@latest
+npx neteasemusicapi@latest
 ```
 
 使用此命令，可直接启动服务，无需下载或者 clone 项目
